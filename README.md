@@ -25,6 +25,6 @@
 📫 ارتباط با من
 📧 ایمیل: sohylnoor1473@example.com
 
-💼 لینکدین (اختیاری): www.linkedin.com/in/soheil-noori-neel
+💼 لینکدین : linkedin.com/in/soheil-noori-neel
 
 <p align="center">⭐ اگر از پروفایلم خوشت اومد، خوشحال می‌شم ستاره بدی!</p> ```
