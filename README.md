@@ -20,3 +20,14 @@
 ⚛️ فریم‌ورک‌ها: React.js, React Native  
 📦 ابزارها: Git, GitHub, Expo, AsyncStorage  
 🎨 طراحی: Responsive Design, Clean UI  
+📊 آمار GitHub من
+<div align="center">
+
+
+</div>
+📫 ارتباط با من
+📧 ایمیل: sohylnoor1473@example.com
+
+💼 لینکدین (اختیاری): www.linkedin.com/in/soheil-noori-neel
+
+<p align="center">⭐ اگر از پروفایلم خوشت اومد، خوشحال می‌شم ستاره بدی!</p> ```
