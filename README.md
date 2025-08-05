@@ -1,29 +1,58 @@
-<h1 align="center">سلام! من سهیلم 👋</h1>
+<h1 align="center">Hi there! I'm Soheil 👋</h1>
 
 <p align="center">
-🧑‍💻 توسعه‌دهنده‌ی فرانت‌اند | 📱 متخصص React Native  
-🎓 دانشجوی علوم کامپیوتر | 🚀 عاشق یادگیری و رشد  
+Frontend Developer | 
+Computer Science Student | Passionate about building, learning, and creating digital experiences  
 </p>
 
 ---
 
-### 🧠 درباره‌ی من
-- 🌱 در حال یادگیری Git، GitHub، مهارت‌های سطح ارشد و زبان انگلیسی  
-- 🎯 هدفم: رسیدن به شغل عالی، مهاجرت تحصیلی، و ساخت تیم رؤیایی  
-- 🔭 علاقه‌مند به پروژه‌های متن‌باز، استارتاپ و بهبود بهره‌وری  
+### 🧠 About Me
+
+- 🎓 Computer Science student focused on software development  
+- 📝 Writing a research paper in the field of AI 
+- 🚀 Currently building my own tech business  
+- 🎯 Goals: land a professional developer role, pursue academic studies abroad, and build a dream team  
 
 ---
 
-### ⚒️ مهارت‌ها
+### ⚒️ Skills
+
 ```js
-💻 زبان‌ها: JavaScript (ES6+), HTML5, CSS3  
-⚛️ فریم‌ورک‌ها: React.js, React Native  
-📦 ابزارها: Git, GitHub, Expo, AsyncStorage  
-🎨 طراحی: Responsive Design, Clean UI  
+// Languages:
+JavaScript (ES6+), HTML5, CSS3
 
+// Frameworks & Libraries:
+React.js, React Native
+
+// Tools:
+Expo, AsyncStorage
+
+// UI/UX:
+Responsive Design, Clean UI
 ```
+💼 Projects
+🔗 GigsBio — Personal Link Manager (Private Repository)
+A modern platform that allows users to create and share a personal profile with multiple links — similar to Linktree.
 
-📫 ارتباط با من
-📧 ایمیل: sohylnoor1473@gmail.com
+Key Features:
 
+Secure authentication using Supabase
 
+Unique username registration system
+
+User dashboard to add and manage links
+
+Public profile at /u/{username}
+
+Built with Next.js App Router, Tailwind CSS, and Supabase
+
+⚠️ This is a private repository developed as part of my personal business.
+
+📫 Contact Me
+📧 Email: sohylnoor1473@gmail.com
+
+💼 LinkedIn: linkedin.com/in/soheil-noori
+
+<!-- - 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle) -->
+<p align="center"> ❤️ Always open to collaboration, learning, and building awesome things together! </p> 
